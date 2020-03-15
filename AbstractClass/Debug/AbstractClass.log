@@ -1,0 +1,4 @@
+﻿  AbstractClass.cpp
+C:\Users\ThinkPad\Documents\GitHub\AbstractClass\AbstractClass\AbstractClass.cpp(176,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\ThinkPad\Documents\GitHub\AbstractClass\AbstractClass\AbstractClass.cpp(177,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  AbstractClass.vcxproj -> C:\Users\ThinkPad\Documents\GitHub\AbstractClass\AbstractClass\Debug\AbstractClass.exe
